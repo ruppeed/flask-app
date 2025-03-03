@@ -1,0 +1,74 @@
+{
+  "leaders": [
+    {
+      "name": "Keir Starmer",
+      "title": "Prime Minister",
+      "country": "United Kingdom",
+      "location": "London, UK",
+      "latitude": 51.5074,
+      "longitude": -0.1278,
+      "image": "/images/starmer.jpg",
+      "activity": "Concluding defense summit on Ukraine and meeting with G7 leaders"
+    },
+    {
+      "name": "Emmanuel Macron",
+      "title": "President",
+      "country": "France",
+      "location": "London, UK",
+      "latitude": 51.5074,
+      "longitude": -0.1278,
+      "image": "/images/macron.jpg",
+      "activity": "Participating in final day of defense summit on Ukraine"
+    },
+    {
+      "name": "Giorgia Meloni",
+      "title": "Prime Minister",
+      "country": "Italy",
+      "location": "London, UK",
+      "latitude": 51.5074,
+      "longitude": -0.1278,
+      "image": "/images/meloni.jpg",
+      "activity": "Participating in final day of defense summit on Ukraine"
+    },
+    {
+      "name": "Friedrich Merz",
+      "title": "Chancellor",
+      "country": "Germany",
+      "location": "London, UK",
+      "latitude": 51.5074,
+      "longitude": -0.1278,
+      "image": "/images/merz.jpg",
+      "activity": "Participating in final day of defense summit on Ukraine"
+    },
+    {
+      "name": "Shigeru Ishiba",
+      "title": "Prime Minister",
+      "country": "Japan",
+      "location": "Tokyo, Japan",
+      "latitude": 35.6895,
+      "longitude": 139.6917,
+      "image": "/images/ishiba.jpg",
+      "activity": "Engaging in domestic governance, no international travel reported"
+    },
+    {
+      "name": "Justin Trudeau",
+      "title": "Prime Minister",
+      "country": "Canada",
+      "location": "London, UK",
+      "latitude": 51.5074,
+      "longitude": -0.1278,
+      "image": "/images/trudeau.jpg",
+      "activity": "Participating in final day of defense summit on Ukraine"
+    },
+    {
+      "name": "Donald Trump",
+      "title": "President",
+      "country": "United States",
+      "location": "Washington, D.C., USA",
+      "latitude": 38.9072,
+      "longitude": -77.0369,
+      "image": "/images/trump.jpg",
+      "activity": "Engaging in domestic policy meetings, no international travel reported"
+    }
+  ]
+}
